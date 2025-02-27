@@ -1,4 +1,4 @@
-# Footy Tic-Tac Toe
+# Football Minesweeper
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
 PS: The project is still under initial development stage due to Database Expiry
